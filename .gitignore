@@ -1,3 +1,6 @@
 lab_work_1.pdf
 .ipynb_checkpoints
 *.docx
+anaconda_projects
+.virtual_documents
+.DS_Store
